@@ -1,0 +1,17 @@
+nevents = 10   #number of events to run
+theta_max=2    #parameter used to define the angle of the particle
+spare_channel=5 #num
+method=0     #
+layers = 5
+nfibers = 128
+channel_number = 128
+ch_width = 0.00025
+ch_height = 0.0015
+pixel_x_size = 4
+pixel_y_size = 20
+epoxy = 120e-06
+diameter = 0.00025
+fiber_gap = 30e-06
+dead_zone = 5e-06
+prob_pde = 0.25
+epoxy_index = 1.52
